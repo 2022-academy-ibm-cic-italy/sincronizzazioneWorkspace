@@ -1,0 +1,2 @@
+# sincronizzazioneWorkspace
+sincronizzazioneWorkspace
